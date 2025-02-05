@@ -20,3 +20,6 @@ The API accepts an order with the following details:
 * As a user I can create new order
 * As a user I can retrieve list of all orders
 * As a user I can pay for the order
+
+## Non-Functional
+* System should be scalable. Meaning that multiple instances should process requests
