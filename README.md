@@ -23,3 +23,14 @@ The API accepts an order with the following details:
 
 ## Non-Functional
 * System should be scalable. Meaning that multiple instances should process requests
+* Include prerequisites and steps to launch in README
+* The solution code must be in a git repository
+* The API should be implemented using .NET Core framework (ideally the newest stable version)
+
+## Bonus points stuff
+* RESTful API
+* Documentation generated from code (hint - Swagger)
+* Automated tests
+* Containerization/deployment (hint - Docker)
+* Performance considerations
+* Comments/thoughts on the decisions you made
