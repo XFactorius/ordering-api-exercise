@@ -12,7 +12,8 @@ The API accepts an order with the following details:
     {"product_id": "A1", "quantity": 2, "price": 10.5},
     {"product_id": "B3", "quantity": 1, "price": 20.0}
   ]
-}```
+}
+```
 
 # Requirements
 ## Functional
